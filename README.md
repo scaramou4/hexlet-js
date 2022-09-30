@@ -1,0 +1,2 @@
+# hexlet-js
+educational purposes
